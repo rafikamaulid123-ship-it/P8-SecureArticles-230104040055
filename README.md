@@ -16,7 +16,6 @@
     <strong>Dosen:</strong> Muhayat S.Ag.,M.I.T
   </p>
   <p align="center"
-  <strong>Nama:</strong> Muhammad Raihan Azmi — <strong>NIM:</strong> 230104040079
   </p>
 </p>
 
